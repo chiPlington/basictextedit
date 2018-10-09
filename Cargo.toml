@@ -1,0 +1,6 @@
+[package]
+name = "basictextedit"
+version = "0.1.0"
+authors = ["rustaceanplantation <nickwolkow@gmail.com>"]
+
+[dependencies]
